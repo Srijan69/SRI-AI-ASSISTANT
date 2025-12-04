@@ -1,0 +1,13 @@
+pillow
+opencv-python
+requests
+tkinter
+customtkinter
+queue
+pyttsx3
+gpt4all
+webbrowser
+pyaudio
+pyttsx3
+psutil
+SpeechRecognition
