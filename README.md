@@ -29,7 +29,7 @@ Visual Feedback: Features an animated, responsive central orb/star field.
 This prototype relies on several external libraries and local model files.
 
 1. Prerequisites
-Python 3.x
+Python 3.15
 
 Operating System: Windows (many command functions, like os.system("start chrome"), are Windows-specific).
 
@@ -50,17 +50,28 @@ Note: The cv2 (OpenCV) dependency is for the camera feed.
 
 GPT4All Models Setup (Crucial for Offline Mode):
 
-The code is configured to look for models in the directory C:/Users/kommi/python project file/models.
-
 You must download the following two GGUF files and place them in that specific path (or update the MODEL_FOLDER variable in sri_ai.py):
 
 Mistral-7B-Instruct-v0.2-Q4_K_M.gguf
 
 deepseek-r1-7b-instruct-Q4_K_M.gguf
 
-OpenRouter API Key (Optional, for Online Mode):
+OpenRouter API Key (for Online Mode):
+open website openrouter
 
-Get an API key from OpenRouter.
+and create a account(if have then ignore).
+
+click on the profile picture
+
+click on API keys and then click on create a new API key
+
+then give any name and to the API project to get the API key
+
+dont change anything just set it be default
+
+and then create a API key
+
+and copy the API key and paste it in the code
 
 Replace "your_openrouter_API_key" in the code with your actual key:
 
