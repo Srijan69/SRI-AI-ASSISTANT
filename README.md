@@ -2,7 +2,7 @@
 
 🤖 SRI: The AI Assistant Prototype (Stage 2)
 Overview
-This repository contains the prototype code for SRI (Intelligent AI Assistant), a multi-functional AI assistant built using Python. SRI aims to provide conversational responses, perform local system commands (like opening applications and managing files), and monitor system health—all within a custom graphical user interface (GUI).
+This repository contains the prototype code for SRI (Intelligent AI Assistant), a multi-functional personal AI assistant built using Python. SRI aims to provide conversational responses, perform local system commands (like opening applications and managing files), and monitor system health—all within a custom graphical user interface (GUI).
 
 This is a Stage 2 prototype; it is intended for testing and development only. It is not optimized for production and may contain bugs.
 
